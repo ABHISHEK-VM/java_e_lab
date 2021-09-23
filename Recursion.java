@@ -8,7 +8,7 @@ public class Recursion {
 
         System.out.print("Enter a number : ");
         int number = scanner.nextInt();
-        System.out.println("Factorial of " + number + " is : " + factorial(number));
+        System.out.println("Factorial  of " + number + " is : " + factorial(number));
 
     }
 
